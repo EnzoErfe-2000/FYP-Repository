@@ -25,3 +25,6 @@ Repository for source code used in my FYP for Degree
 # Running the deployed application
 Use the following link:
 https://branches-dhpo9ewnkdpjrc3aca7h8o.streamlit.app/
+
+If you encounter any errors, please reach out by sending an email request to the following email address:
+enzoerfe2000@gmail.com
